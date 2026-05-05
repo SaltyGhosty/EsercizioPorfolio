@@ -1,0 +1,12 @@
+caption {
+     text-align: left;
+
+}
+figure {
+    margin: 0;
+}
+
+#Accept {
+    float: left;
+    border-radius: 0;
+}
