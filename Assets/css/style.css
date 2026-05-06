@@ -8,16 +8,16 @@ body {
 
 
 #site-header {
-	height: 250px;
 	background-color: hsl(308, 62%, 52%);
 	background-image: url("../img/HeaderNEU121.jpg");
 	background-size: cover;
 	background-position: center;
-	background-repeat: no-repeat;
 	color: #000000;
 	text-align: center;
 	line-height: 2.3;
+	list-style-type: none;
 }
+
 
 #site-header h1 {
 	font-size: 3rem;
@@ -32,7 +32,7 @@ body {
 
 
 nav a {
-	color: hsl(194, 76%, 36%);
+	color: hsl(17, 100%, 51%);
 	font-weight: bold;
 	line-height: 3;
 }
