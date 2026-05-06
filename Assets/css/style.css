@@ -9,7 +9,7 @@ body {
 
 #site-header {
      height: 250px;
-	background-color: hsl(170, 82%, 51%);
+	background-color: hsl(308, 62%, 52%);
 	background-image: url("../img/HeaderNEU121.jpg");
 	background-size: cover;
 	background-position: center;
@@ -26,7 +26,7 @@ body {
 }
 
 .tagline {
-	color: rgb(145, 196, 51);
+	color: rgb(255, 65, 239);
 	font-style: italic;
 }
 
