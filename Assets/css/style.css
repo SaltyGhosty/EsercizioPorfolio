@@ -26,7 +26,7 @@ body {
 }
 
 .tagline {
-	color: rgb(184, 22, 22);
+	color: rgb(145, 196, 51);
 	font-style: italic;
 }
 
@@ -120,18 +120,18 @@ textarea:focus {
 
 button {
 	color: #ffffff;
-	background-color: hsl(220, 60%, 30%);
+	background-color: hsl(220, 64%, 35%);
 	font-weight: bold;
 	width: 30%;
 }
 
 button:hover {
 	color: hsl(199, 75%, 41%);
-	background-color: hsl(220, 60%, 45%);
+	background-color: hsl(128, 82%, 73%);
 }
 
 #site-footer {
-	background-color: hsl(220, 40%, 15%);
+	background-color: hsl(0, 76%, 45%);
 	color: #ffffff;
 	text-align: center;
 	font-size: 0.9rem;
