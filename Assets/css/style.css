@@ -8,11 +8,13 @@ body {
 
 
 #site-header {
-	background-color: hsl(220, 40%, 20%);
-	background-image: url("../Assets/img/HeaderNEU121.jpg");
+     height: 250px;
+	background-color: hsl(170, 82%, 51%);
+	background-image: url("../img/HeaderNEU121.jpg");
 	background-size: cover;
 	background-position: center;
-	color: #272ae7;
+    background-repeat: no-repeat;
+	color: #000000;
 	text-align: center;
 	line-height: 2.4;
 }
