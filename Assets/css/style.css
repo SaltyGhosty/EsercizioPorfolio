@@ -95,6 +95,10 @@ h3 {
 	background-color: #3f7b8d;
 }
 
+#frequency {
+	background-color: #cdcfcf;
+}
+
 label {
 	font-weight: bold;
 	color: hsl(220, 60%, 25%);
